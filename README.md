@@ -42,4 +42,3 @@
 - 🤔 Coffee fuels my debugging sessions ☕
 - 🌍 Lifelong learner and explorer
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VatsalMunipara&theme=radical)
